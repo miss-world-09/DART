@@ -19,7 +19,7 @@ void main() {
   BigInt longValue;
   longValue = BigInt.parse('123456789123456789');
   // double is used for floating-point numbers (numbers with decimal points).
-  double percentage = 99.8;
+  // double percentage = 99.8;
 
   // This declares a boolean variable named isLogin and assigns it the value false.
   // In Dart, bool can only hold true or false.
